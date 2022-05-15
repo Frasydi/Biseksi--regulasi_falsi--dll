@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MetnumAPP">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetnumAPP</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="NonLinier" />
+        <option name="description" value="Entahlah" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="Persamaan nonLinear" />
+        <option name="vendor" value="Ahmad SYdiq" />
+        <option name="version" value="0.01" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="MetnumAPP.jar">
+        <element id="module-output" name="MetnumAPP" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../Frasydi/out/artifacts/Frasydi_jar/Frasydi.jar" />
+    </root>
+  </artifact>
+</component>
